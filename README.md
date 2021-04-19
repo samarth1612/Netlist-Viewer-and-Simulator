@@ -1,9 +1,9 @@
 # netlist-viewer-and-simulator
 
-##Usage :
-	  *bash setup.sh
-	  *python main.py 
+## Usage :
+	  * bash setup.sh
+	  * python main.py 
 	
-##Technologies Used :
-	  *Python 
-	  *Networkx
+## Technologies Used :
+	  * Python 
+	  * Networkx
