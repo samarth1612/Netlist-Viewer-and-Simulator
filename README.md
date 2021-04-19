@@ -5,5 +5,5 @@
 * `python main.py`
 	
 ## Technologies Used :
-* `Python3` 
-* `Networkx`
+* Python3
+* Networkx
